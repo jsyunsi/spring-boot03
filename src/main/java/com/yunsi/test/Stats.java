@@ -32,6 +32,6 @@ public class Stats<T extends Number> {
         v = dob.average();
         System.out.println(v);
 
-
+        System.out.println("xxxx");
     }
 }
